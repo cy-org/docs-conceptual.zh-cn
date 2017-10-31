@@ -1,0 +1,1 @@
+Microsoft ActiveX 数据对象 (ADO)

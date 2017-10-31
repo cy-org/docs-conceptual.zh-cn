@@ -1,0 +1,7 @@
+# [协变和逆变](index.md)
+## [泛型接口中的变体](variance-in-generic-interfaces.md)
+### [创建变体泛型接口](creating-variant-generic-interfaces.md)
+### [在泛型集合的接口中使用变体](using-variance-in-interfaces-for-generic-collections.md)
+## [委托中的变体](variance-in-delegates.md)
+### [使用委托中的变体](using-variance-in-delegates.md)
+### [对 Func 和 Action 泛型委托使用变体](using-variance-for-func-and-action-generic-delegates.md)

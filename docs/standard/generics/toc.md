@@ -1,0 +1,5 @@
+# [泛型](index.md)
+## [.NET Framework 中的泛型集合](collections.md)
+## [用于控制数组和列表的泛型委托](delegates-for-manipulating-arrays-and-lists.md)
+## [泛型接口](interfaces.md)
+## [协变和逆变](covariance-and-contravariance.md)

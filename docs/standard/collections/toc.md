@@ -1,0 +1,7 @@
+# [常用的集合类型](commonly-used-collection-types.md)
+# [何时使用泛型集合](when-to-use-generic-collections.md)
+# [Hashtable 和 Dictionary 集合类型](hashtable-and-dictionary-collection-types.md)
+# [选择集合类](selecting-a-collection-class.md)
+# [集合和数据结构](index.md)
+# [集合内的比较和排序](comparisons-and-sorts-within-collections.md)
+# [已排序的集合类型](sorted-collection-types.md)

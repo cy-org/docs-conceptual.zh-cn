@@ -1,0 +1,13 @@
+# [内存管理和垃圾回收](memory-management-and-gc.md)
+## [Cleaning Up Unmanaged Resources](unmanaged.md)（清理未托管资源）
+### [实现 Dispose 方法](implementing-dispose.md)
+### [使用实现 IDisposable 的对象](using-objects.md)
+## [垃圾回收](index.md)
+### [垃圾回收的基础知识](fundamentals.md)
+### [垃圾回收和性能](performance.md)
+### [已引发回收](induced.md)
+### [延迟模式](latency.md)
+### [针对共享 Web 托管进行优化](optimization-for-shared-web-hosting.md)
+### [垃圾回收通知](notifications.md)
+### [应用程序域资源监视](app-domain-resource-monitoring.md)
+### [弱引用](weak-references.md)

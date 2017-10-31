@@ -1,0 +1,7 @@
+# [互操作性](index.md)
+## [互操作性概述](interoperability-overview.md)
+## [如何：通过使用 Visual C# 功能访问 Office 互操作对象](how-to-access-office-onterop-objects.md)
+## [如何：在 COM 互操作编程中使用索引属性](how-to-use-indexed-properties-in-com-interop-rogramming.md)
+## [如何：使用平台调用播放波形文件](how-to-use-platform-invoke-to-play-a-wave-file.md)
+## [演练：Office 编程（C# 和 Visual Basic）](walkthrough-office-programming.md)
+## [COM 类示例](example-com-class.md)

@@ -1,0 +1,1 @@
+Microsoft Windows 图形设备接口 (GDI)
