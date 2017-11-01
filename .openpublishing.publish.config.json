@@ -81,6 +81,11 @@
         "master": "master",
         "live": "live"
       }
+    },
+	{
+      "path_to_root": "samples",
+      "url": "https://github.com/cy-org/samples-store",
+      "branch": "master"
     }
   ],
   "branch_target_mapping": {
