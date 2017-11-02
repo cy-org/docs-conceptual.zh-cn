@@ -69,8 +69,8 @@
     },
     {
       "path_to_root": "_repo.en-us",
-      "url": "https://github.com/dotnet/docs",
-      "branch": "live",
+      "url": "https://github.com/cy-org/docs-conceptual",
+      "branch": "master",
       "branch_mapping": {}
     },
     {
@@ -82,7 +82,7 @@
         "live": "live"
       }
     },
-	{
+    {
       "path_to_root": "samples",
       "url": "https://github.com/cy-org/samples-store",
       "branch": "master"
